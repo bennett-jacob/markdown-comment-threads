@@ -9,7 +9,7 @@ description: Use when reading, adding, resolving, or reopening footnote-based ðŸ
 
 Comment threads use footnote syntax with a `ðŸ§µ` marker. Three line types: comment headers, blockquoted bodies, and single-line actions. **Violating the line-type rules breaks parsers and confuses humans.**
 
-Spec: [SPEC.md](../../SPEC.md) in the md-comment-threads repository.
+Spec: [SPEC.md](../../SPEC.md) in the markdown-comment-threads repository.
 
 ## When to Use
 
@@ -136,7 +136,7 @@ Resolve author from git `user.name`, falling back to local username.
 
 ## Validate
 
-If the md-comment-threads repo is available:
+If the markdown-comment-threads repo is available:
 
 ```bash
 node validate.mjs
