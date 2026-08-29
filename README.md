@@ -2,6 +2,12 @@
 
 A standard for comment threads in Markdown files — footnote-based, git-diffable, and built for human–agent collaboration.
 
+**INSTALLATION:**
+
+```sh
+npx skills add bennett-jacob/markdown-comment-threads
+```
+
 **[Read the spec →](SPEC.md)**
 
 ## Quick example
